@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="sche.client/sche.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="Sche.Server/Sche.Server.csproj" />
+</Solution>
